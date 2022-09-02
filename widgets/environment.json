@@ -1,0 +1,1 @@
+[{"values":["http://jupiterprime-react-prod.s3-website.us-east-2.amazonaws.com/"],"name":"SELENIUM_URL"},{"values":["chrome"],"name":"SELENIUM_BROWSER"},{"values":["3"],"name":"SELENIUM_WAIT"},{"values":["true"],"name":"SELENIUM_HEADLESS"}]
